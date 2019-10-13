@@ -106,7 +106,7 @@
                             <ImageView
                                 android:id="@+id/imageView"
                                 android:layout_width="match_parent"
-                                android:layout_height="110dp"
+                                android:layout_height="101dp"
                                 android:layout_weight="1"
                                 card_view:srcCompat="@drawable/rev_radio" />
 
@@ -147,7 +147,7 @@
                             <ImageView
                                 android:id="@+id/imageView2"
                                 android:layout_width="124dp"
-                                android:layout_height="124dp"
+                                android:layout_height="123dp"
                                 card_view:srcCompat="@drawable/rev_radio" />
 
                             <TextView
@@ -185,20 +185,20 @@
                             <ImageView
                                 android:id="@+id/imageView3"
                                 android:layout_width="match_parent"
-                                android:layout_height="126dp"
+                                android:layout_height="121dp"
                                 card_view:srcCompat="@drawable/rev_radio" />
 
                             <TextView
                                 android:id="@+id/textView"
                                 android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
+                                android:layout_height="32dp"
                                 android:text="Young Blood"
                                 android:textSize="15dp" />
 
                             <TextView
                                 android:id="@+id/textView7"
                                 android:layout_width="match_parent"
-                                android:layout_height="wrap_content"
+                                android:layout_height="42dp"
                                 android:text="Album:"
                                 android:textSize="15dp" />
                         </LinearLayout>
