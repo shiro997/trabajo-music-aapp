@@ -6,5 +6,19 @@
     <string name="action_settings">Settings</string>
     <string name="tarjeta_1">Tarjeta 1</string>
     <string name="tarjeta_2">Tarjeta 2</string>
+    <string name="song1">Somewhere Now</string>
+    <string name="song2">Bang Bang</string>
+    <string name="song3">Revolution Radio</string>
+    <string name="song4">Say Goodbye</string>
+    <string name="song5">Outlaws</string>
+    <string name="song6">Bouncing off the wall</string>
+    <string name="song7">Still Breathing</string>
+    <string name="album1">Revolution Radio</string>
+    <string name="song8">Young Blood</string>
+    <string name="song9">Too Dumb to Die</string>
+    <string name="song10">Troubled Times</string>
+    <string name="song11">Forever Now</string>
+    <string name="song12">Ordinary World</string>
+    <string name="CustomLabel1">Album: </string>
 
 </resources>
