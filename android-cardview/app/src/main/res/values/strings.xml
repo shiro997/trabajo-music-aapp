@@ -20,5 +20,7 @@
     <string name="song11">Forever Now</string>
     <string name="song12">Ordinary World</string>
     <string name="CustomLabel1">Album: </string>
-
+    <string name="Band1">Green Day</string>
+    <string name="Band2">Sum41</string>
+    <string name="Band3">Simple Plan</string>
 </resources>
