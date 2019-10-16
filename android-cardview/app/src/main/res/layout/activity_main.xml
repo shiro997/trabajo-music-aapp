@@ -7,20 +7,21 @@
 
     <android.support.design.widget.AppBarLayout
         android:id="@+id/appbar"
-        android:layout_height="wrap_content"
         android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:backgroundTint="@color/CustomBackGround">
 
         <android.support.v7.widget.Toolbar
-            android:layout_height="?attr/actionBarSize"
             android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
             card_view:layout_scrollFlags="scroll|enterAlways">
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Konrad Music"
-                android:textSize="25dp"
-                android:textColor="@color/CustomTextColor"/>
+                android:textColor="@color/CustomTextColor"
+                android:textSize="25dp" />
         </android.support.v7.widget.Toolbar>
 
         <android.support.design.widget.TabLayout
